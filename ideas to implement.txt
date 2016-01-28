@@ -1,0 +1,2 @@
+add random backstory
+add name generator //done may 30
